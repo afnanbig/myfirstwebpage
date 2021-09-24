@@ -1,3 +1,4 @@
 function change(){
-    document.getElementById("img1").src="https://img.favpng.com/10/12/23/cartoon-child-clip-art-png-favpng-nN3wredNGbvf6pxrDiE0NyHC8.jpg";
+    document.getElementById("image1").src="https://previews.123rf.com/images/bahau/bahau2002/bahau200200006/139511777-kids-friends-from-around-the-world-around-their-hands-multinational-friendship-of-children-of-friend.jpg";
+                                
 }
